@@ -1,3 +1,4 @@
+#Tyto data byli anonymizovaná a úpravená pro výukové účely, a neodpovídají reálným měřením.
 from PyQt5 import QtCore, QtGui, QtWidgets
 import sys
 import csv
